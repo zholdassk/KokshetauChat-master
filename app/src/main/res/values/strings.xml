@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Кокшетау Чат</string>
+
+    <string name="find_users">Поиск друзей</string>
+
+    <string name="tooltip_find_user">Добавить в друзья</string>
+    <string name="tooltip_register">Регистрация</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Пароль</string>
+    <string name="hint_password_2">Повторите пароль</string>
+    <string name="hint_password_current">Текущий пароль</string>
+    <string name="hint_password_new">Новый пароль</string>
+    <string name="hint_password_new_2">Повторите новый пароль</string>
+    <string name="hint_status">Введите новые данные</string>
+    <string name="hint_username">Введите новые данные</string>
+
+    <string name="username">Имя и фамилия</string>
+    <string name="add_friend">Добавить в друзья</string>
+    <string name="delete_friend">Удалить из друзей</string>
+    <string name="cancel_request">Отменить запрос</string>
+    <string name="respond">Запрос на дружбу</string>
+
+    <string name="accept">Добавить</string>
+    <string name="cancel">Отмена</string>
+    <string name="image">Фото</string>
+
+    <string name="btn_login">Войти</string>
+    <string name="btn_forgot_password">Забыли пароль?</string>
+    <string name="btn_reset_password">Сбросить пароль</string>
+
+    <string name="forgot_password_msg">Пожалуйста, укажите email, который Вы использовали для входа в Кокшетау Чат.</string>
+
+    <string name="login">Вход</string>
+    <string name="lbl_forgot_password">Восстановление доступа к аккаунту</string>
+    <string name="type_a_message">Напишите сообщение...</string>
+    <string name="logout">Выйти</string>
+    <string name="are_you_sure">Вы действительно хотите выйти из Кокшетау Чат?</string>
+    <string name ="register_label"> Регистрация </string>
+    <string name ="email_label"> Email </string>
+    <string name ="password_label"> Пароль </string>
+    <string name ="repeat_password_label"> Повторите пароль </string>
+    <string name ="enter_button"> Зарегистрироваться </string>
+    <string name="name_label">Имя и фамилия</string>
+</resources>

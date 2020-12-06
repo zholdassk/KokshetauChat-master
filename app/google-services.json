@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "876814365355",
+    "firebase_url": "https://chat-program-d7632.firebaseio.com",
+    "project_id": "chat-program-d7632",
+    "storage_bucket": "chat-program-d7632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876814365355:android:a688f883dfa45ff287fdee",
+        "android_client_info": {
+          "package_name": "com.akmola.android.kokshetauchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876814365355-no7sep4ju5ddaevnq8k1uem5o51iivjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akmola.android.kokshetauchat",
+            "certificate_hash": "99caf8781494a357e659c96e104c6302f783ebae"
+          }
+        },
+        {
+          "client_id": "876814365355-2vqt54riq4vpcpp9rvkvdorhlkovqfr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUjw5_o60tvzgBCwuJWL6G6bVUNzVO7UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876814365355-2vqt54riq4vpcpp9rvkvdorhlkovqfr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
